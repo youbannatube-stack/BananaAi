@@ -1,0 +1,5 @@
+{
+  "name": "BananaAi",
+  "description": "An intuitive web application to generate and edit images using Google's Gemini API. Create new visuals from text prompts or upload your own to start editing.",
+  "requestFramePermissions": []
+}
